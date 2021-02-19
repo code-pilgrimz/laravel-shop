@@ -2,3 +2,4 @@
 - revisit later
 - check perf here
 - tidy up
+- minor wording
