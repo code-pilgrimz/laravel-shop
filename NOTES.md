@@ -12,3 +12,4 @@
 - check perf here
 - tidy up
 - left a note for myself
+- off-by-one, fixed
