@@ -13,3 +13,4 @@
 - tidy up
 - left a note for myself
 - off-by-one, fixed
+- minor wording
