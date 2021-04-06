@@ -41,3 +41,4 @@
 - TODO clean this
 - revisit later
 - revisit later
+- left a note for myself
