@@ -76,3 +76,4 @@
 - left a note for myself
 - tidy up
 - left a note for myself
+- minor wording
