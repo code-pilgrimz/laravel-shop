@@ -88,3 +88,4 @@
 - tidy up
 - off-by-one, fixed
 - off-by-one, fixed
+- minor wording
