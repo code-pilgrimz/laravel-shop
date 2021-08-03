@@ -120,3 +120,4 @@
 - off-by-one, fixed
 - revisit later
 - TODO clean this
+- check perf here
