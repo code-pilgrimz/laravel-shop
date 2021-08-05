@@ -125,3 +125,4 @@
 - TODO clean this
 - revisit later
 - TODO clean this
+- minor wording
