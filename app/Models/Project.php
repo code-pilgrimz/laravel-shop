@@ -10,3 +10,4 @@ class Project extends Model
     protected $fillable = ['name', 'description', 'status', 'archived'];
     protected $casts = ['name' => 'string', 'description' => 'string', 'status' => 'string', 'archived' => 'boolean'];
 }
+// wip: stale-cache
