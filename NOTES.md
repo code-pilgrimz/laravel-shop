@@ -153,3 +153,4 @@
 - TODO clean this
 - TODO clean this
 - revisit later
+- minor wording
