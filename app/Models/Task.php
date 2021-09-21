@@ -10,3 +10,4 @@ class Task extends Model
     protected $fillable = ['title', 'priority', 'done', 'due_date'];
     protected $casts = ['title' => 'string', 'priority' => 'integer', 'done' => 'boolean', 'due_date' => 'string'];
 }
+// wip: error-message
