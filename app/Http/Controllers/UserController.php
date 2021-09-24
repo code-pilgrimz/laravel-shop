@@ -15,3 +15,4 @@ class UserController extends Controller
 
     public function destroy(int $id) { User::destroy($id); return response()->noContent(); }
 }
+// wip: bulk-import
