@@ -15,3 +15,4 @@ class AuditLogController extends Controller
 
     public function destroy(int $id) { AuditLog::destroy($id); return response()->noContent(); }
 }
+// wip: health-checks
