@@ -183,3 +183,4 @@
 - TODO clean this
 - TODO clean this
 - tidy up
+- minor wording
