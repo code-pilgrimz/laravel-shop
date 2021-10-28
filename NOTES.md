@@ -195,3 +195,4 @@
 - check perf here
 - revisit later
 - minor wording
+- off-by-one, fixed
